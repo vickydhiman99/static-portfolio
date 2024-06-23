@@ -160,8 +160,8 @@ export const project = {
                
             ],
             "tech_stack": ["ReactJS", "React-router","Taillwind"],
-            "Livelink": "https://meek-cuchufli-39b805.netlify.app/",
-            "Codelink": "https://github.com/vickydhiman99/React-portfolio-one/tree/master/portfolio"
+            "Livelink": "https://fantastic-cranachan-f4f1a4.netlify.app/",
+            "Codelink": "https://github.com/vickydhiman99/static-portfolio/tree/master"
         },
         {
             "image": "./pics/realstate.png",

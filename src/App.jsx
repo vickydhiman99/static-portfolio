@@ -9,7 +9,7 @@ import Projects from './component/section/Projects'
 import Experience from './component/section/Experience'
 import Quotes from './component/section/Quotes'
 import Contectme from './component/section/Contectme'
-// https://meek-cuchufli-39b805.netlify.app/
+// https://fantastic-cranachan-f4f1a4.netlify.app
 
 
 function App() {
